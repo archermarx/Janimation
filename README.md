@@ -20,4 +20,3 @@ julia> include "janimation.jl"
 The video will generate. All settings are tweakable in the `janimation.jl` script.
 
 Good luck Jana!
-T
